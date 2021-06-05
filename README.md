@@ -1,2 +1,3 @@
 # git-it-done
-website url:
+A unique Git API Tool
+https://nikuk1.github.io/git-it-done/
